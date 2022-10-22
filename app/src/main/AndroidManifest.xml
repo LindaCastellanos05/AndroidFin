@@ -34,12 +34,6 @@
             android:name=".actualizarProducto"
             android:exported="false" />
         <activity
-            android:name=".facturacion"
-            android:exported="false" />
-        <activity
-            android:name=".nuevaVenta"
-            android:exported="false" />
-        <activity
             android:name=".vistaCajero"
             android:exported="false" />
         <activity
@@ -47,12 +41,6 @@
             android:exported="false" />
         <activity
             android:name=".vistaBodeguero"
-            android:exported="false" />
-        <activity
-            android:name=".menuFactura"
-            android:exported="false" />
-        <activity
-            android:name=".menuTarjeta"
             android:exported="false" />
         <activity
             android:name=".menuProducto"
@@ -70,7 +58,7 @@
             android:name=".crearClientes"
             android:exported="false" />
         <activity
-            android:name=".menuAdmin"
+            android:name=".recyclerFactura"
             android:exported="false" />
         <activity
             android:name=".crearUsuarios"
@@ -81,7 +69,7 @@
             android:label="@string/title_activity_login"
             android:theme="@style/Theme.Vistasproyecto.NoActionBar" />
         <activity
-            android:name=".recyclerFactura"
+            android:name=".menuAdmin"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

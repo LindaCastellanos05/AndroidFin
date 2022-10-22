@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_crear_tarjeta.xml" value="0.1796875" />
         <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_facturacion.xml" value="0.1796875" />
+        <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_menu_admin.xml" value="0.1796875" />
         <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_menu_factura.xml" value="0.1796875" />
+        <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_menu_tarjeta.xml" value="0.1796875" />
+        <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_nueva_venta.xml" value="0.1796875" />
         <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_recycler_factura.xml" value="0.1796875" />
         <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_recyclerfactura.xml" value="0.1796875" />
         <entry key="..\:/Users/Linda/Documents/ANDROIDACTUALIZADO/proyectoFinalJava-master/app/src/main/res/layout/activity_ver_recycler_factura.xml" value="0.1796875" />
